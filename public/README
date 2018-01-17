@@ -1,0 +1,7 @@
+PROIECTUL 2 (Tehnici web)
+
+Aplicatie simpla de Instant Messaging folosind AJAX (cu XMLHttpRequest) si json-server
+
+In db.json sunt stocate mesajele si utilizatorii curenti
+
+PS: Foarte ineficienta dar ca proof of concept, merge
